@@ -1,0 +1,16 @@
+{
+  "name": "dv_dulieu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./Controllers/DV_DU_LIEU.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.3.2",
+    "nodemailer": "^6.3.0"
+  }
+}
